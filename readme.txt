@@ -10,13 +10,13 @@ Have you ever wanted to embed the FEMA widgets on your WordPress page as a widge
 
 == Description ==
 
-JM Government Widgets requires 600px height and 300px width; if widgets look funny this is because your theme doesn't support some of the widgeth sizes.
+JM Government Widgets requires 600px height and 300px width; if widgets look funny this is because your sidebar/theme doesn't support some of the sizes.
 
 JM Government Widgets is a plugin that allows you to select a FEMA widget to embed into a WordPress widget.
 
 JM Government Widgets is GPLv2 licensed. If you make a change please contact me [here](mailto:plugins@gplit.com).
 
-JM Government Widgets homepage is located at http://gplit.com/wordpress-plugins/
+JM Government Widgets homepage is located at http://gplit.com/wordpress-plugins/jm-government-widgets/
 
 JM Government Widgets Features:
 
