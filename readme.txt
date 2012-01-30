@@ -4,7 +4,7 @@ Donate link: http://gplit.com
 Tags: widget, plugin, sidebar, widgets, wordpress, embed
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.0.01
 
 Have you ever wanted to embed the FEMA widgets on your WordPress page as a widget? Look no further; you've found what you need!
 

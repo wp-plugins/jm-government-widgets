@@ -3,7 +3,7 @@
 	Plugin Name: JM Government Widgets
 	Plugin URI: http://gplit.com
 	Description: JM Government Widgets is a plugin that allows you to display any of the listed government widgets in a WordPress widget.
-	Version: 1.0
+	Version: 1.0.01
 	Author: Josten Moore
 	Author URI: http://gplit.com
 	License: GPL2
