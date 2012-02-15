@@ -9,7 +9,7 @@
 	License: GPL2
 	*/
 	
-	/*  Copyright 2011  JM Government Widgets  (email : plugins@gplit.com)
+	/*  Copyright 2011  JM Government Widgets  (http://gplit.com/about/contact/)
 
 		This program is free software; you can redistribute it and/or modify
 		it under the terms of the GNU General Public License, version 2, as 
